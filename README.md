@@ -103,4 +103,4 @@ $ sudo mv composer.phar /usr/local/bin/composer
 
 ## Symfony2 Bundle
 
-If your project uses [symfony2](http://symfony.com/), consider using the [KSS Bundle] (https://github.com/kss-php/KssBundle) as well. The KSS Bundle uses Twig templates to make the styleguide block easier to customize and include in your views.
+If your project uses [symfony2](http://symfony.com/), consider using the [KSS Bundle] (https://github.com/kss-php/KssBridgeBundle) as well. The KSS Bundle uses Twig templates to make the styleguide block easier to customize and include in your views.
